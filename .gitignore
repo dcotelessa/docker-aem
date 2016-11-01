@@ -1,0 +1,5 @@
+/aem/*
+/install/aem-packages/*
+/node_modules
+/path/to/*
+!**/.keep
